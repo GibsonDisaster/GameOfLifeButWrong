@@ -1,0 +1,11 @@
+[package]
+name = "roguelike"
+version = "0.1.0"
+authors = ["henningtonko"]
+edition = "2018"
+build = "build.rs"
+
+[dependencies]
+bear-lib-terminal = "2.0.0"
+chan = "*"
+rand = "*"
