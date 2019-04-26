@@ -1,1 +1,1 @@
-# TestRustRoguelike
+# Game of life but bad
